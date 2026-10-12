@@ -13,7 +13,7 @@
 
 <br>
 
-<!-- ═══════════════ TECNOLOGIAS ═══════════════ -->
+
 <div align="center">
   <img align="center" alt="JavaScript" title="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
   <img align="center" alt="React Native" title="React Native" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">&nbsp;
@@ -25,8 +25,8 @@
 
 <br>
 
-<!-- ═══════════════ ESTATÍSTICAS ═══════════════ -->
-## 📺 Velvet Room — Estatísticas
+
+
 
 <div align="center">
   <a href="https://github.com/THiagALmeida">
@@ -39,7 +39,7 @@
 
 <br>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+
 <div align="center">
   <img width="100%" src="https://media.tenor.com/g-1_eSETNNoAAAAd/persona-persona-4.gif" alt="Persona 4 Golden"/>
 
