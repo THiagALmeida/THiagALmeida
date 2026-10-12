@@ -23,15 +23,8 @@
   <img align="center" alt="CSS3" title="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
 
-
-<div align="center">
-  <a href="https://github.com/THiagALmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THiagALmeida&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1320&title_color=6EC1E4&icon_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THiagALmeida&layout=compact&langs_count=16&bg_color=0B1320&title_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Linguagens mais usadas"/>
-  </a>
-  <br><br>
+  <br>
   <img src="https://streak-stats.demolab.com?user=THiagALmeida&background=0B1320&ring=6EC1E4&fire=6EC1E4&currStreakLabel=6EC1E4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA3B8&border=1F4E79&stroke=1F4E79" alt="Sequência de contribuições"/>
 </div>
 
