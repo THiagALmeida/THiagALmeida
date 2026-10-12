@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?
-    type=waving&color=0:FFE600,100:FF9500&height=220&section=header&text=THiagALmeida&fontColor=111111&fontSize=60&animation=fadeIn&desc=%20%20%20at%20%20&descAlignY=72&descSize=18" alt=" "/>
+
   <a href="https://github.com/THiagALmeida">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFE600&center=true&vCenter=true&width=640&lines=React+Native+%7C+Android+%7C+JavaScript;Tailwind+CSS+%7C+HTML+%7C+CSS" alt="Typing SVG"/>
   </a>
