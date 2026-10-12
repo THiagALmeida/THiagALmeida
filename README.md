@@ -1,18 +1,18 @@
+<!-- ═══════════════ HEADER ═══════════════ --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE600,100:FF9500&height=220&section=header&text=THiagALmeida&fontColor=111111&fontSize=60&animation=fadeIn&desc=Every%20day's%20great%20at%20your%20GitHub!&descAlignY=72&descSize=18" alt="header"/> <!-- Midnight Channel --> <img width="100%" src="https://media.tenor.com/sDDwGbu2fuoAAAAd/persona-midnight-channel.gif" alt="Midnight Channel"/>
+<br><br>
 
-
- <div>
-  <a href="https://github.com/THiagALmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THiagALmeida&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THiagALmeida&layout=compact&langs_count=16&theme=merko"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-ReactNative" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">
-  <img align="center" alt="Thiago-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
-  <img align="center" alt="Thiago-tailwindcss" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Thiago-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://github.com/THiagALmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  
-</div>
+<a href="https://github.com/THiagALmeida"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FFE600&center=true&vCenter=true&width=640&lines=Reach+out+to+the+truth!;React+Native+%7C+Android+%7C+JavaScript;Bem-vindo+ao+Midnight+Channel+%F0%9F%93%BA" alt="Typing SVG"/> </a> <br> <img src="https://komarev.com/ghpvc/?username=THiagALmeida&color=FFE600&style=for-the-badge&label=VISITAS" alt="visitas"/> <a href="https://github.com/THiagALmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFE600" alt="GitHub"/></a> </div> <br> <!-- ═══════════════ PROTAGONISTA ═══════════════ --> <img align="right" width="300" src="https://media.tenor.com/MU5an2FE6fIAAAAC/yu-narukami-dancing.gif" alt="Yu Narukami dançando"/>
+🃏 Status do Protagonista
+Nome:      Thiago
+Arcana:    The Fool (0)
+Classe:    Desenvolvedor Mobile & Front-end
+Persona:   JavaScript
+Party:     React Native · Android · Tailwind CSS · HTML · CSS
+Missão:    Alcançar a verdade... e zerar os bugs
+<br clear="right"/> <!-- ═══════════════ PERSONAS / SKILLS ═══════════════ -->
+🎴 Personas Equipadas
+<div align="center"> <img align="center" alt="Thiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; <img align="center" alt="Thiago-ReactNative" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg">&nbsp; <img align="center" alt="Thiago-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">&nbsp; <img align="center" alt="Thiago-tailwindcss" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp; <img align="center" alt="Thiago-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; <img align="center" alt="Thiago-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div> <br> <!-- ═══════════════ STATS ═══════════════ -->
+📺 Velvet Room — Estatísticas
+<div align="center"> <a href="https://github.com/THiagALmeida"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THiagALmeida&show_icons=true&include_all_commits=true&count_private=true&bg_color=111111&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF&border_color=FFE600" alt="GitHub stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THiagALmeida&layout=compact&langs_count=16&bg_color=111111&title_color=FFE600&text_color=FFFFFF&border_color=FFE600" alt="Top langs"/> </a> <br><br> <img src="https://streak-stats.demolab.com?user=THiagALmeida&background=111111&ring=FFE600&fire=FF9500&currStreakLabel=FFE600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&border=FFE600&stroke=FFE600" alt="GitHub streak"/> </div> <br> <!-- ═══════════════ INVESTIGATION TEAM ═══════════════ -->
+🔎 Investigation Team
+<div align="center"> <img height="200" src="https://media.tenor.com/_Xa6xAsUYZQAAAAC/persona-persona4.gif" alt="Investigation Team"/> <img height="200" src="https://media.tenor.com/YLUfvR2JDFoAAAAC/persona-4-tv.gif" alt="TV do Midnight Channel"/> <br><br> <img width="100%" src="https://media.tenor.com/g-1_eSETNNoAAAAd/persona-persona-4.gif" alt="Persona 4 Golden"/> </div> <!-- ═══════════════ FOOTER ═══════════════ --> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE600,100:FF9500&height=120&section=footer" alt="footer"/> </div>
