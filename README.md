@@ -21,6 +21,7 @@
   <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
   <img align="center" alt="HTML5" title="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
   <img align="center" alt="CSS3" title="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://devicons.io/devicons/icons/laravel.svg" width="50" height="50" alt="Laravel"/>
 </div>
 
 <br>
