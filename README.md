@@ -1,14 +1,14 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1320,100:1F4E79&height=220&section=header&text=THiagALmeida&fontColor=6EC1E4&fontSize=60&animation=fadeIn" alt="THiagALmeida"/>
 
   <a href="https://github.com/THiagALmeida">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFE600&center=true&vCenter=true&width=640&lines=React+Native+%7C+Android+%7C+JavaScript;Tailwind+CSS+%7C+HTML+%7C+CSS" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6EC1E4&center=true&vCenter=true&width=640&lines=React+Native+%7C+Android+%7C+JavaScript;Tailwind+CSS+%7C+HTML+%7C+CSS" alt="Typing SVG"/>
   </a>
 
   <br>
 
-  <a href="https://github.com/THiagALmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFE600" alt="GitHub"/></a>
-  
+  <a href="https://github.com/THiagALmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-0B1320?style=for-the-badge&logo=github&logoColor=6EC1E4" alt="GitHub"/></a>
+
 </div>
 
 <br>
@@ -26,22 +26,21 @@
 <br>
 
 
-
-
 <div align="center">
   <a href="https://github.com/THiagALmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THiagALmeida&show_icons=true&include_all_commits=true&count_private=true&bg_color=111111&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF&border_color=FFE600" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THiagALmeida&layout=compact&langs_count=16&bg_color=111111&title_color=FFE600&text_color=FFFFFF&border_color=FFE600" alt="Linguagens mais usadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THiagALmeida&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1320&title_color=6EC1E4&icon_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THiagALmeida&layout=compact&langs_count=16&bg_color=0B1320&title_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Linguagens mais usadas"/>
   </a>
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=THiagALmeida&background=111111&ring=FFE600&fire=FF9500&currStreakLabel=FFE600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&border=FFE600&stroke=FFE600" alt="Sequência de contribuições"/>
+  <img src="https://streak-stats.demolab.com?user=THiagALmeida&background=0B1320&ring=6EC1E4&fire=6EC1E4&currStreakLabel=6EC1E4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA3B8&border=1F4E79&stroke=1F4E79" alt="Sequência de contribuições"/>
 </div>
 
 <br>
 
 
 <div align="center">
-  <img width="100%" src="https://media.tenor.com/g-1_eSETNNoAAAAd/persona-persona-4.gif" alt="Persona 4 Golden"/>
+  <img height="260" src="https://media.tenor.com/HeO4mBkG3R0AAAAM/boys-abyss-reiji.gif" alt="Reiji Kurose — Shounen no Abyss"/>
+  <img height="260" src="https://media.tenor.com/O5QZkGjnqB8AAAAC/reijikurose-rei.gif" alt="Reiji Kurose — Shounen no Abyss"/>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE600,100:FF9500&height=120&section=footer" alt="footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1320,100:1F4E79&height=120&section=footer" alt="footer"/>
 </div>
