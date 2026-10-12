@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1320,100:1F4E79&height=220&section=header&text=THiagALmeida&fontColor=6EC1E4&fontSize=60&animation=fadeIn" alt="THiagALmeida"/>
+  <img width="100%" src="./rain-header.svg" alt="THiagALmeida"/>
 
   <a href="https://github.com/THiagALmeida">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6EC1E4&center=true&vCenter=true&width=640&lines=React+Native+%7C+Android+%7C+JavaScript;Tailwind+CSS+%7C+HTML+%7C+CSS" alt="Typing SVG"/>
@@ -39,5 +39,5 @@
 
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1320,100:1F4E79&height=120&section=footer" alt="footer"/>
+  <img width="100%" src="./rain-footer.svg" alt="footer"/>
 </div>
