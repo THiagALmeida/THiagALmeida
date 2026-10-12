@@ -15,16 +15,18 @@
 
 
 <div align="center">
-<img align="center" alt="JavaScript" title="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
-  <img align="center" alt="TypeScript" title="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp;
-  <img align="center" alt="React Native" title="React Native" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">&nbsp;
-  <img align="center" alt="Android" title="Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">&nbsp;
-  <img align="center" alt="HTML5" title="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp;
-  <img align="center" alt="CSS3" title="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
-  <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
-  <img align="center" alt="Git" title="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
-  <img align="center" alt="GitHub" title="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
-  <img align="center" alt="VS Code" title="VS Code" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+<img alt="JavaScript" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img alt="TypeScript" title="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp;
+  <img alt="React Native" title="React Native" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">&nbsp;
+  <img alt="Android" title="Android" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">&nbsp;
+  <img alt="HTML5" title="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp;
+  <img alt="CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
+  <img alt="Git" title="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
+  <img alt="GitHub" title="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
+  <img alt="Antigravity" title="Antigravity" width="45" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg">
+  <img alt="Claude Code" title="Claude Code" height="50" src="https://devicons.io/devicons/icons/claude-code.svg">
+  <img alt="Wix" title="Wix" height="50" src="https://devicons.io/devicons/icons/wix.svg">
 
 </div>
 
