@@ -8,7 +8,7 @@
   <br>
 
   <a href="https://github.com/THiagALmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFE600" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=THiagALmeida&color=FFE600&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil"/>
+  
 </div>
 
 <br>
