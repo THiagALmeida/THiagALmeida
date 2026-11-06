@@ -22,7 +22,7 @@
   <img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
   <img alt="Git" title="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
   <img alt="GitHub" title="GitHub" height="50" src="https://cdn.simpleicons.org/github/white">&nbsp;
-  <img alt="Antigravity" title="Antigravity" height="50" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg">&nbsp;
+  <img alt="Antigravity" title="Antigravity" width="46" height="46" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg">&nbsp;
   <img alt="Claude Code" title="Claude Code" height="50" src="https://devicons.io/devicons/icons/claude-code.svg">&nbsp;
   <img alt="Wix" title="Wix" height="50" src="https://cdn.simpleicons.org/wix/white">
 </div>
