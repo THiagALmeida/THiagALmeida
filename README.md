@@ -8,14 +8,12 @@
   <br>
 
   <a href="https://github.com/THiagALmeida" target="_blank"><img src="https://img.shields.io/badge/GitHub-0B1320?style=for-the-badge&logo=github&logoColor=6EC1E4" alt="GitHub"/></a>
-
 </div>
 
 <br>
 
-
 <div align="center">
-<img alt="JavaScript" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img alt="JavaScript" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
   <img alt="TypeScript" title="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp;
   <img alt="React Native" title="React Native" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">&nbsp;
   <img alt="Android" title="Android" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">&nbsp;
@@ -23,27 +21,22 @@
   <img alt="CSS3" title="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
   <img alt="Tailwind CSS" title="Tailwind CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
   <img alt="Git" title="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
-  <img alt="GitHub" title="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
-  <img alt="Antigravity" title="Antigravity" width="45" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg">
-  <img alt="Claude Code" title="Claude Code" height="50" src="https://devicons.io/devicons/icons/claude-code.svg">
-  <img alt="Wix" title="Wix" height="50" src="https://devicons.io/devicons/icons/wix.svg">
-
+  <img alt="GitHub" title="GitHub" height="50" src="https://cdn.simpleicons.org/github/white">&nbsp;
+  <img alt="Antigravity" title="Antigravity" height="50" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg">&nbsp;
+  <img alt="Claude Code" title="Claude Code" height="50" src="https://devicons.io/devicons/icons/claude-code.svg">&nbsp;
+  <img alt="Wix" title="Wix" height="50" src="https://cdn.simpleicons.org/wix/white">
 </div>
 
 <br>
 
-
 <div align="center">
-  <a href="https://github.com/THiagALmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THiagALmeida&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1320&title_color=6EC1E4&icon_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THiagALmeida&layout=compact&langs_count=16&bg_color=0B1320&title_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Linguagens mais usadas"/>
-  </a>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=THiagALmeida&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1320&title_color=6EC1E4&icon_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=THiagALmeida&layout=compact&langs_count=10&bg_color=0B1320&title_color=6EC1E4&text_color=FFFFFF&border_color=1F4E79" alt="Linguagens mais usadas"/>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=THiagALmeida&background=0B1320&ring=6EC1E4&fire=6EC1E4&currStreakLabel=6EC1E4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA3B8&border=1F4E79&stroke=1F4E79" alt="Sequência de contribuições"/>
 </div>
 
 <br>
-
 
 <div align="center">
   <img width="100%" src="./rain-footer.svg" alt="footer"/>
