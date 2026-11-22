@@ -14,18 +14,9 @@
 
 <br>
 
-```bash
-thiago@matrix:~$ whoami
-> Thiago José — estudante de ADS na UNIFACEMA
-> Dev de apps e sites | aprende rápido, constrói mais rápido ainda
-
-thiago@matrix:~$ cat foco.txt
-> [■■■■■■■■□□] React Native & Android
-> [■■■■■■■□□□] Front-end com Tailwind
-> [■■■■■□□□□□] TypeScript
-
-thiago@matrix:~$ _
-```
+<div align="center">
+  <img width="100%" src="./matrix-terminal.svg" alt="thiago@matrix:~$ whoami — Thiago José, estudante de ADS na UNIFACEMA. Foco: React Native & Android, Front-end com Tailwind, TypeScript"/>
+</div>
 
 <h3 align="center"><code>// stack carregada</code></h3>
 
