@@ -2,7 +2,7 @@
   <img width="100%" src="./matrix-header.svg" alt="THiagALmeida"/>
 
   <a href="https://github.com/THiagALmeida">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+inicializando+THiagALmeida.exe...;%3E+React+Native+%7C+Android+%7C+JavaScript;%3E+Tailwind+CSS+%7C+HTML+%7C+CSS;%3E" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+%3E+React+Native+%7C+Android+%7C+JavaScript;%3E+Tailwind+CSS+%7C+HTML+%7C+CSS;%3E" alt="Typing SVG"/>
   </a>
 
   <br>
